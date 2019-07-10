@@ -1,0 +1,37 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <link rel="stylesheet" type="01-html-git-css\01-Activities\08-FloatExamples\style.css"href="style.css">
+    
+
+  </head>
+  
+  <body>
+    <header>
+      <p>Emeka Nwadiogbu, Jr.</p>
+    </header>
+    <nav>
+      <p>About</p>
+      <p>Portfolio</p>
+      <p>Contact</p>
+    </nav>
+    <section>
+      <p>About Me</p>
+      <article>
+        <p>Like most Cancers, our year of new challenges and goals starts within our birthday month, July. Emeka Nwadiogbu, Jr. is a business finance consultant whom also has a video production company, ODUM Production. His career as a business finance consultant started March of 2007. After completing his MBA in Finance and his Masters of Jurisprudency in Business Law, Emeka Nwadiogbu, Jr. started a new journey in business plan writing. Doubling as a video producer and film director brings a unique authentic approach. Understanding the overall trends of today's time, Emeka urges his clients to invest more in the visual outlook of their company by creating small commercials as well as video training materials for their staff.</p>
+        <h1>H1,H2,H3</h1>
+        <p>Paragraph</p>
+      </article>
+    </section>
+    <aside>
+      <p>Aside</p>
+    </aside>
+    <footer>
+      Footer
+    </footer>
+  </body>
+</html>
+Col
