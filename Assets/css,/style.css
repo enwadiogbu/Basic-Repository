@@ -5,95 +5,14 @@
 
 
 
-body {
-    padding: 25%;
-    margin: 25%;
-    font-family: Georgia, "Times New Roman", Times, serif;
-    font-size: 18px;
-    line-height: 100%;
-    color:rgb(241, 243, 247) ;
-    background: #05884b;
-  }
-  
-  header {
-    background: #0add50;
-    .absolute [
-        position: relative;
+h1  {
+  color: blue;
 
-  
-.margins [
-    display: grid;
+}
 
-]
-
-.margins p [
-    margin: auto;
-    
-    ]
-]
-  }
-  
-  h1 {
-    padding: 20px 0;
-    margin: 0;
-    margin-bottom: 20px;
-    font-size: 28px;
-    color: #eee;
-    text-align: center;
-    background: rgb(13, 204, 55);
-
-    .absolute [
-        position: relative;
-
-    ]
-    .absolute h1[
-        position: relative;
-        top: 50%;
-        width: 100%;
-        transform: translateY(-50%)
-    ]
-  }
-  
-  h2 {
-    font-size: 24px;
-  }
-  
-  a {
-    color: #d21034;
-  }
-  
-  .container {
-    width: 1024px;
-    margin: 0 auto;
-  }
-  
-  #main-bio,
-  #contact-info,
-  #bio-image {
-    float: left;
-  }
-  
-  #main-bio {
-    width: 70%;
-  }
-  
-  #contact-info {
-    width: 30%;
-  }
-  
-  #bio-image {
-    width: 200px;
-    height: 200px;
-    margin-right: 20px;
-  }
-  
-.example-test-align
-  .container
-    text-align: center 
-
-  .box
-    display: inline-block
-
-
-
-
+header {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
