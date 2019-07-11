@@ -1,0 +1,38 @@
+
+
+
+.bio:hover  {
+  background-color: green;
+
+}
+
+.center {
+  margin: auto;
+  width: 75%;
+  border: 3px solid black;
+  padding: 20px;
+
+}
+
+h1  {
+  color: blue;
+
+}
+
+header {
+  width: 300px;
+  border: 15px solid green;
+  padding: 25px;
+  margin: auto;
+}
+
+.floatname  {
+  float: right;
+}
+
+.floatterm  {
+  float: center;
+  margin: 25;
+
+}
+
